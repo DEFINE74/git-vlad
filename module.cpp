@@ -17,3 +17,6 @@ void thirdMSG() {
 void fourthMSG() {
   cout << "created in NEW FEATURE. this is -> fourth msg" << endl;
 }
+void fifthMSG() {
+  cout << "THIS IS IMPORTANT MESSAGE. WORKING WITH PULL REQUEST!" << endl;
+}
