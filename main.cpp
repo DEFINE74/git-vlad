@@ -7,8 +7,6 @@ using std::cout, std::endl;
 
 int main() {
   cout << "yooo" << endl;
-  firstMSG();
-  secondMSG();
-  thirdMSG();
+  fifthMSG();
   return 0;
 }
