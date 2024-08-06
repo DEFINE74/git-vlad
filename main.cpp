@@ -9,5 +9,6 @@ int main() {
   cout << "yooo" << endl;
   firstMSG();
   secondMSG();
+  thirdMSG();
   return 0;
 }
