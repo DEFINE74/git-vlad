@@ -8,5 +8,6 @@ using std::cout, std::endl;
 int main() {
   cout << "yooo" << endl;
   firstMSG();
+  secondMSG();
   return 0;
 }
