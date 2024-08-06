@@ -4,4 +4,6 @@
 void firstMSG();
 void secondMSG();
 void thirdMSG();
+void fourthMSG();
+
 #endif

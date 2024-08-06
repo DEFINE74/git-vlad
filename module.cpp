@@ -9,8 +9,11 @@ void firstMSG() {
   cout << "created in MASTER. this is -> first msg" << endl;
 }
 void secondMSG() {
-  cout << "created in FEATURE. this is -> second msg" << endl;
+  cout << "created in OLD FEATURE. this is -> second msg" << endl;
 }
 void thirdMSG() {
-  cout << "created in FEATURE. this is -> third msg" << endl;
+  cout << "created in OLD FEATURE. this is -> third msg" << endl;
+}
+void fourthMSG() {
+  cout << "created in NEW FEATURE. this is -> fourth msg" << endl;
 }
